@@ -1,0 +1,26 @@
+[
+    {
+        "title": "19",
+        "sub_title": "November",
+        "detail": "Details regarding services A",
+        "text": "Cipla",
+        "time": "20:00 hrs(IST)",
+        "img": "assets/images/bg_logo.png"
+    },
+    {
+        "title": "25",
+        "sub_title": "November",
+        "detail": "Details regarding services B",
+        "text": "SUN PHARMA",
+        "time": "17:30 hrs(IST)",
+        "img": "assets/images/bg_logo.png"
+    },
+    {
+        "title": "28",
+        "sub_title": "November",
+        "detail": "Details regarding services C",
+        "text": "SUN BURN",
+        "time": "10:00 hrs(IST)",
+        "img": "assets/images/bg_logo.png"
+    }
+]
